@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-🔗 **Live demo:** PASTE-YOUR-APP-LINK-HERE
+🔗 **Live demo:** https://sales-pipeline-forecasting-w9dgdvuf9rp6kw8qgr2qml.streamlit.app/
 
 An executive-grade revenue analytics dashboard that answers the four questions every CRO asks in a forecast call:
 
