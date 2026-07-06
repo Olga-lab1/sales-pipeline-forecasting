@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 🔗 **Live demo:** https://sales-pipeline-forecasting-w9dgdvuf9rp6kw8qgr2qml.streamlit.app/
+![Dashboard](dashboard.png)
 
 An executive-grade revenue analytics dashboard that answers the four questions every CRO asks in a forecast call:
 
